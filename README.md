@@ -1,6 +1,7 @@
 # PDFReader
 A handy program that allows u to get all text from a PDF file and download or copy it
-![image](https://github.com/NovaPlays134/PDFReader/assets/120801515/767f07f5-e6e8-4a63-8731-7323801a9b5b)
+
+![image](https://github.com/NovaPlays134/PDFReader/assets/120801515/c1cd70db-ce68-462c-a409-dfea99bcd657)
 
 # Installation
 download it via this exe file,
