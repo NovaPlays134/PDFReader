@@ -1,4 +1,4 @@
-# NovaHook
+# PDFReader
 A Script for the mod menu Stand that allows you to webhook detections/classifications, new sessions and the in game chat.
 
 You can exclude what u want, when you join a new session it will show all players, session code and what kind of session it is (online, story mode, online in a session alone).
