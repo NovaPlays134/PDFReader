@@ -5,7 +5,7 @@ A handy program that allows u to get all text from a PDF file and download or co
 
 # Installation
 download it via this exe file,
-https://drive.google.com/uc?export=download&id=1u8gK61dTv2haqai-JyTnNRM0vRxROKN2
+https://drive.google.com/file/d/1u8gK61dTv2haqai-JyTnNRM0vRxROKN2/view?usp=drive_link
 
 # Not a virus
 the download link and when you run the exe will tell u that it may be a virus,
